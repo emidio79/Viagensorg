@@ -1,5 +1,7 @@
 import { useId, useRef, useState } from "react";
 import type { ReactNode } from "react";
+import SeletorEscola from "./components/SeletorEscola";
+import type { Escola } from "./components/SeletorEscola";
 
 type Comprovante = {
   id: string;
@@ -10,6 +12,9 @@ type Viagem = {
   dentroDoEstado: boolean;
   estadoDestino: string;
   nomeCompeticao: string;
+  translado: number;
+  transladoSergipe: number;
+  transladoDestino: number;
   passagemAerea: number;
   hospedagem: number;
   repasseProfessor: number;
@@ -69,7 +74,10 @@ export default function App() {
     dentroDoEstado: true,
     estadoDestino: "",
     nomeCompeticao: "",
+    translado: 0,
     passagemAerea: 0,
+    transladoSergipe: 0,
+    transladoDestino: 0,
     hospedagem: 0,
     repasseProfessor: 0,
     valorCreditadoCompeticao: 0,
@@ -78,6 +86,8 @@ export default function App() {
   });
 
   const [nomeAnalista, setNomeAnalista] = useState("");
+  const [escolaSelecionada, setEscolaSelecionada] =
+  useState<Escola | null>(null);
 
   function atualizar<K extends keyof Viagem>(
     campo: K,
@@ -103,9 +113,11 @@ export default function App() {
     alimentacaoCentavos + transporteCentavos;
 
   const custosViagemCentavos = viagem.dentroDoEstado
-    ? 0
+    ? paraCentavos(viagem.translado)
     : paraCentavos(viagem.passagemAerea) +
-      paraCentavos(viagem.hospedagem);
+      paraCentavos(viagem.hospedagem) +
+      paraCentavos(viagem.transladoSergipe) +
+      paraCentavos(viagem.transladoDestino);
 
   const saldoCentavos =
     paraCentavos(viagem.repasseProfessor) - gastosProfessorCentavos;
@@ -152,11 +164,12 @@ export default function App() {
         >
           <header
             className="
-              page-header mb-[34px] flex items-center
-              justify-between gap-6 max-[540px]:mb-6
+              page-header mb-[34px] flex items-start
+              justify-between gap-8
+              max-[900px]:flex-col max-[540px]:mb-6
             "
           >
-            <div>
+            <div className="min-w-0">
               <span className={estilos.eyebrow}>
                 CONTROLE FINANCEIRO
               </span>
@@ -168,7 +181,7 @@ export default function App() {
                   tracking-[-1.3px] text-[#20232d]
                 "
               >
-                Sua viagem, em dia.
+                Sua prestação, em dia.
               </h1>
 
               <p className="text-[13px] leading-[1.6] text-[#818694]">
@@ -176,18 +189,31 @@ export default function App() {
               </p>
             </div>
 
-            <span
-              className="
-                inline-flex shrink-0 items-center gap-[7px]
-                rounded-[20px] border border-[#e6e9ef]
-                bg-white px-[11px] py-2
-                text-[10px] text-[#767d8a]
-                max-[900px]:hidden print:hidden
-              "
-            >
-              <span className="size-[6px] rounded-full bg-[#35b47a]" />
-              Cálculo em tempo real
-            </span>
+            <div className="w-full max-w-[420px] min-w-0 max-[900px]:max-w-none">
+              {/* Campo de busca: aparece somente na tela */}
+              <div className="print:hidden">
+                <SeletorEscola
+                  value={escolaSelecionada}
+                  onChange={setEscolaSelecionada}
+                />
+              </div>
+
+              {/* Escola confirmada: aparece somente no PDF */}
+              {escolaSelecionada && (
+                <div className="escola-impressao hidden print:block">
+
+                  <p className="mt-1 text-xs font-semibold text-[#343b49]">
+                    {escolaSelecionada.nome}
+                  </p>
+
+                  <p className="mt-1 text-[10px] text-[#818694]">
+                    CNPJ: {escolaSelecionada.cnpj}
+                    {" · "}
+                    {escolaSelecionada.regional}
+                  </p>
+                </div>
+              )}
+            </div>
           </header>
 
           <div
@@ -256,8 +282,8 @@ export default function App() {
 
                     <p className={estilos.helper}>
                       {viagem.dentroDoEstado
-                        ? "Registre alimentação, transporte e o repasse recebido."
-                        : "Inclua também os custos de passagem aérea e hospedagem."}
+                        ? "Registre alimentação, transporte, translado e o repasse recebido."
+                        : "Inclua também os custos de passagem aérea, hospedagem e translados."}
                     </p>
 
                     {!viagem.dentroDoEstado && (
@@ -287,7 +313,7 @@ export default function App() {
                     )}
                   </div>
 
-                  {/* Coluna direita: competição */}
+                  {/* Coluna direita: competição e translados */}
                   <div
                     className="
                       min-w-0 border-t border-[#eef0f4] pt-6
@@ -327,6 +353,38 @@ export default function App() {
                     <p className={estilos.helper}>
                       Nome do evento ao qual esta prestação de contas se refere.
                     </p>
+
+                    {/* Esta seção aparece para os dois tipos de viagem */}
+                    <div className="mt-5 border-t border-[#eef0f4] pt-4">
+
+                      <div className="grid grid-cols-1 gap-4">
+                        {viagem.dentroDoEstado ? (
+                          <Campo
+                            label="Translado"
+                            valor={viagem.translado}
+                            onChange={(v) => atualizar("translado", v)}
+                          />
+                        ) : (
+                          <>
+                            <Campo
+                              label="Translado em Sergipe"
+                              valor={viagem.transladoSergipe}
+                              onChange={(v) => atualizar("transladoSergipe", v)}
+                            />
+
+                            <Campo
+                              label={
+                                viagem.estadoDestino.trim()
+                                  ? `Translado em ${viagem.estadoDestino.trim()}`
+                                  : "Translado no estado de destino"
+                              }
+                              valor={viagem.transladoDestino}
+                              onChange={(v) => atualizar("transladoDestino", v)}
+                            />
+                          </>
+                        )}
+                      </div>
+                    </div>
                   </div>
                 </div>
               </Card>
@@ -496,14 +554,16 @@ export default function App() {
                   <p className="mt-[10px] text-[10px] leading-[1.6] text-[#849ab9]">
                     {viagem.dentroDoEstado
                       ? "Total das despesas com alimentação e transporte."
-                      : "Total das despesas com alimentação, transporte, passagem e hospedagem."}
+                      : "Total das despesas com alimentação, transporte, passagem, hospedagem e translados."}
                   </p>
                 </div>
 
                 {/* Passagem e hospedagem: abaixo do card azul */}
                 {!viagem.dentroDoEstado && (
                   <p className={estilos.helper}>
-                    Inclui {moeda(custosViagem)} em passagem e hospedagem.
+                    {viagem.dentroDoEstado
+                      ? `Inclui ${moeda(custosViagem)} em translado.`
+                      : `Inclui ${moeda(custosViagem)} em passagem, hospedagem e translados.`}
                   </p>
                 )}
               </Card>

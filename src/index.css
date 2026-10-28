@@ -279,4 +279,19 @@ body {
     font-size: 12px !important;
     line-height: 1.4 !important;
   }
+  /* Mostra a escola escolhida abaixo do título no PDF */
+  #root .page-header .escola-impressao {
+    display: block !important;
+    margin-top: 8px !important;
+  }
+
+  #root .page-header .escola-impressao p {
+    margin: 2px 0 !important;
+    line-height: 1.3 !important;
+  }
+
+  #root .page-header .escola-impressao p:nth-child(2) {
+    font-weight: 600 !important;
+    overflow-wrap: anywhere;
+  }
 }

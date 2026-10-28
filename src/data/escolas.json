@@ -1,0 +1,1910 @@
+[
+  {
+    "id": "dea-3",
+    "nome": "CENTRO DE EXCELENCIA DOM LUCIANO JOSE CABRAL DUARTE",
+    "cnpj": "01.911.526/0001-96",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-4",
+    "nome": "CENTRO DE EXCELENCIA LEANDRO MACIEL",
+    "cnpj": "01.913.365/0001-70",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-5",
+    "nome": "CENTRO DE EXCELENCIA PROFESSORA MARIA IVANDA DE CARVALHO NASCIMENTO",
+    "cnpj": "01.923.979/0001-32",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-6",
+    "nome": "CENTRO DE EXCELENCIA SANTOS DUMONT",
+    "cnpj": "01.912.623/0001-01",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-7",
+    "nome": "CENTRO DE EXCELENCIA SECRETARIO DE ESTADO FRANCISCO ROSA SANTOS",
+    "cnpj": "01.914.199/0001-26",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-8",
+    "nome": "COLEGIO ESTADUAL GENERAL SIQUEIRA",
+    "cnpj": "01.908.058/0001-09",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-9",
+    "nome": "COLEGIO ESTADUAL JOSE AUGUSTO FERRAZ",
+    "cnpj": "01.912.624/0001-48",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-10",
+    "nome": "COLEGIO ESTADUAL PROFESSOR ACRISIO CRUZ",
+    "cnpj": "01.910.406/0001-74",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-11",
+    "nome": "CENTRO DE EXCELENCIA JOHN KENNEDY",
+    "cnpj": "01.910.406/0001-74",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-12",
+    "nome": "COLEGIO ESTADUAL CEL FRANCISCO SOUZA PORTO",
+    "cnpj": "01.910.406/0001-74",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-13",
+    "nome": "ESCOLA ESTADUAL JOAO PAULO II",
+    "cnpj": "01.910.406/0001-74",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-14",
+    "nome": "ESCOLA ESTADUAL OLIMPIA BITTENCOURT",
+    "cnpj": "01.910.406/0001-74",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-15",
+    "nome": "ESCOLA ESTADUAL PROF VALNIR CHAGAS",
+    "cnpj": "01.910.406/0001-74",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-16",
+    "nome": "CENTRO DE EXCELENCIA ATHENEU SERGIPENSE",
+    "cnpj": "01.908.042/0001-98",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-17",
+    "nome": "COLEGIO ESTADUAL IVO DO PRADO",
+    "cnpj": "01.912.578/0001-87",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-18",
+    "nome": "COLEGIO ESTADUAL OLAVO BILAC",
+    "cnpj": "01.942.940/0001-62",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-19",
+    "nome": "INSTITUTO EDUCACIONAL SANTA TEREZINHA DO MENINO JESUS",
+    "cnpj": "04.791.420/0001-94",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-20",
+    "nome": "ESCOLA ESTADUAL SAO JOSE",
+    "cnpj": "04.791.420/0001-94",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-21",
+    "nome": "CENTRO DE EXCELENCIA PROFESSOR JOAO COSTA",
+    "cnpj": "04.791.420/0001-94",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-22",
+    "nome": "ESCOLA ESTADUAL PROFESSORA JUDITE OLIVEIRA",
+    "cnpj": "04.791.420/0001-94",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-23",
+    "nome": "ESCOLA ESTADUAL MANOEL DIONIZIO DE SANTANA",
+    "cnpj": "04.791.420/0001-94",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-24",
+    "nome": "ESCOLA ESTADUAL JOSE DA SILVA RIBEIRO FILHO",
+    "cnpj": "04.791.420/0001-94",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-25",
+    "nome": "CENTRO DE EXCELENCIA NELSON MANDELA",
+    "cnpj": "04.791.420/0001-94",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-26",
+    "nome": "COLEGIO ESTADUAL 17 DE MARCO",
+    "cnpj": "04.791.420/0001-94",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-27",
+    "nome": "ESCOLA ESTADUAL 8 DE JULHO",
+    "cnpj": "01.932.874/0001-40",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-28",
+    "nome": "INSTITUTO DE EDUCACAO RUY BARBOSA",
+    "cnpj": "01.932.874/0001-40",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-29",
+    "nome": "ESCOLA ESTADUAL WOLNEY LEAL DE MELO",
+    "cnpj": "01.932.874/0001-40",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-30",
+    "nome": "COLEGIO ESTADUAL MINISTRO PETRONIO PORTELA",
+    "cnpj": "01.932.874/0001-40",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-31",
+    "nome": "COLEGIO ESTADUAL PAULINO NASCIMENTO",
+    "cnpj": "01.932.874/0001-40",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-32",
+    "nome": "ESCOLA ESTADUAL POETA GARCIA ROSA",
+    "cnpj": "01.907.185/0001-85",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-33",
+    "nome": "COLEGIO ESTADUAL PROFESSORA AUREA MELO",
+    "cnpj": "01.907.183/0001-96",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-34",
+    "nome": "ESCOLA ESTADUAL JACINTHO DE FIGUEIREDO MARTINS",
+    "cnpj": "01.900.114/0001-50",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-35",
+    "nome": "ESCOLA ESTADUAL SAO CRISTOVAO",
+    "cnpj": "01.915.249/0001-90",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-36",
+    "nome": "ESCOLA ESTADUAL MONTEIRO LOBATO",
+    "cnpj": "01.932.874/0001-40",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-37",
+    "nome": "CENTRO DE ATENDIMENTO EDUCACIONAL ESPECIALIZADO JOAO CARDOSO NASCIMENTO JUNIOR",
+    "cnpj": "04.906.271/0001-61",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-38",
+    "nome": "COLEGIO ESTADUAL 24 DE OUTUBRO",
+    "cnpj": "01.929.544/0001-03",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-39",
+    "nome": "COLEGIO ESTADUAL PROFESSOR FRANCISCO PORTUGAL",
+    "cnpj": "01.908.054/0001-12",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-40",
+    "nome": "ESCOLA ESTADUAL MINISTRO GERALDO BARRETO SOBRAL",
+    "cnpj": "01.908.054/0001-12",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-41",
+    "nome": "CENTRO ESTADUAL DE EDUCACAO PROFISSIONAL JOSE FIGUEIREDO BARRETO",
+    "cnpj": "04.791.420/0001-94",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-42",
+    "nome": "COLEGIO ESTADUAL PROFESSORA MARIA DAS GRACAS AZEVEDO MELO",
+    "cnpj": "04.791.420/0001-94",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-43",
+    "nome": "CENTRO DE EXCELENCIA BARAO DE MAUA",
+    "cnpj": "04.791.420/0001-94",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-44",
+    "nome": "ESCOLA EUVALDO DINIZ GONCALVES",
+    "cnpj": "06.333.812/0001-35",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-45",
+    "nome": "CENTRO DE EXCELENCIA JOSE ROLLEMBERG LEITE",
+    "cnpj": "01.886.682/0001-44",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-46",
+    "nome": "COLEGIO ESTADUAL JORNALISTA PAULO COSTA",
+    "cnpj": "01.932.270/0001-01",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-47",
+    "nome": "ESCOLA ESTADUAL EMBAIXADOR BILAC PINTO",
+    "cnpj": "01.908.041/0001-43",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-48",
+    "nome": "ESCOLA ESTADUAL AUGUSTO MAYNARD",
+    "cnpj": "01.936.672/0001-76",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-49",
+    "nome": "COLEGIO ESTADUAL DR JUGURTA BARRETO DE LIMA",
+    "cnpj": "05.486.302/0001-35",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-50",
+    "nome": "CENTRO DE EXCELENCIA VITORIA DE SANTA MARIA",
+    "cnpj": "09.639.637/0001-05",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-51",
+    "nome": "ESCOLA ESTADUAL PROF MYRIAM DE OLIVEIRA SANTOS MELO",
+    "cnpj": "01.935.087/0001-51",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-52",
+    "nome": "ESCOLA ESTADUAL PROFESSOR ARTHUR FORTES",
+    "cnpj": "01.899.890/0001-88",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-53",
+    "nome": "ESCOLA ESTADUAL MARIA MARCIA DE OLIVEIRA MORAES",
+    "cnpj": "01.939.371/0001-04",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-54",
+    "nome": "CENTRO DE EXCELENCIA PROFESSOR JOSE CARLOS DE SOUSA",
+    "cnpj": "01.925.029/0001-47",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-55",
+    "nome": "COLEGIO ESTADUAL MONSENHOR CARLOS CAMELIO COSTA",
+    "cnpj": "01.932.197/0001-60",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-56",
+    "nome": "ESCOLA ESTADUAL RODRIGUES DOREA",
+    "cnpj": "01.908.055/0001-67",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-57",
+    "nome": "CENTRO DE EXCELENCIA GOV DJENAL TAVARES DE QUEIROZ",
+    "cnpj": "01.908.054/0001-12",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-58",
+    "nome": "ESCOLA ESTADUAL 11 DE AGOSTO",
+    "cnpj": "01.912.631/0001-40",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-59",
+    "nome": "ESCOLA ESTADUAL JOSE DE ALENCAR CARDOSO",
+    "cnpj": "01.912.572/0001-00",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-60",
+    "nome": "COLEGIO ESTADUAL PROFESSOR JOAQUIM VIEIRA SOBRAL",
+    "cnpj": "04.791.420/0001-94",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-61",
+    "nome": "ESCOLA ESTADUAL 8 DE MAIO",
+    "cnpj": "01.922.189/0001-32",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-62",
+    "nome": "ESCOLA ESTADUAL CLODOALDO DE ALENCAR",
+    "cnpj": "01.876.302/0001-90",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-63",
+    "nome": "COLEGIO ESTADUAL ALCEU AMOROSO LIMA",
+    "cnpj": "01.911.573/0001-30",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-64",
+    "nome": "COLEGIO ESTADUAL TOBIAS BARRETO",
+    "cnpj": "01.911.525/0001-41",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-65",
+    "nome": "CONSERVATORIO DE MUSICA DE SERGIPE",
+    "cnpj": "06.040.967/0001-83",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-66",
+    "nome": "COLEGIO ESTADUAL PROFESSOR ARICIO FORTES",
+    "cnpj": "01.928.959/0001-54",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-67",
+    "nome": "CENTRO DE EXCELENCIA GOV AUGUSTO FRANCO",
+    "cnpj": "01.915.493/0001-52",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-68",
+    "nome": "CENTRO DE EXCELENCIA PROFESSOR PAULO FREIRE",
+    "cnpj": "04.791.420/0001-94",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-69",
+    "nome": "ESCOLA ESTADUAL DESEMBARGADOR JOAO BOSCO DE ANDRADE LIMA",
+    "cnpj": "01.912.580/0001-56",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-70",
+    "nome": "COLEGIO ESTADUAL PROFESSOR BENEDITO OLIVEIRA",
+    "cnpj": "01.936.597/0001-43",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-71",
+    "nome": "CENTRO DE EXCELENCIA PROFESSORA OFENISIA SOARES FREIRE",
+    "cnpj": "01.976.605/0001-85",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-72",
+    "nome": "COLEGIO ESTADUAL JACKSON DE FIGUEIREDO",
+    "cnpj": "01.912.598/0001-58",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-73",
+    "nome": "ESCOLA ESTADUAL SENADOR LEITE NETO",
+    "cnpj": "01.913.762/0001-41",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-74",
+    "nome": "CENTRO DE EXCELENCIA PROFESSOR GONCALO ROLLEMBERG LEITE",
+    "cnpj": "01.948.286/0001-02",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-75",
+    "nome": "COLEGIO ESTADUAL DR MANOEL LUIZ",
+    "cnpj": "01.930.788/0001-06",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-76",
+    "nome": "ESCOLA ESTADUAL PROFESSOR RUY ELOY",
+    "cnpj": "01.882.446/0001-50",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-77",
+    "nome": "CENTRO DE REFERENCIA DE EDUCACAO DE JOVENS E ADULTOS PROFESSOR SEVERINO UCHOA",
+    "cnpj": "01.911.527/0001-30",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-78",
+    "nome": "COLEGIO ESTADUAL LEONOR TELES DE MENEZES",
+    "cnpj": "01.907.176/0001-94",
+    "regional": "DEA"
+  },
+  {
+    "id": "dea-79",
+    "nome": "ESCOLA ESTADUAL PROFESSOR MANOEL FRANCO FREIRE",
+    "cnpj": "01.916.029/0001-80",
+    "regional": "DEA"
+  },
+  {
+    "id": "dre-01-3",
+    "nome": "CENTRO DE EXCELENCIA DE EDUCACAO EM TEMPO INTEGRAL E PROFISSIONAL MARIA FONTES DE FARIA DONA MARIETA",
+    "cnpj": "41.007.111/0001-07",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-4",
+    "nome": "CENTRO DE EXCELENCIA PREFEITO JOALDO LIMA DE CARVALHO",
+    "cnpj": "04.902.125/0001-68",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-5",
+    "nome": "COLEGIO ESTADUAL MONSENHOR OLIMPIO CAMPOS",
+    "cnpj": "01.899.720/0001-01",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-6",
+    "nome": "COLEGIO ESTADUAL PROFESSORA JOSEFINA LEITE CAMPOS",
+    "cnpj": "01.902.207/0001-14",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-7",
+    "nome": "CENTRO DE EXCELENCIA DOM JOSE VICENTE TAVORA",
+    "cnpj": "01.935.136/0001-56",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-8",
+    "nome": "CENTRO DE EXCELENCIA DE EDUCACAO PROFISSIONAL ULYSSES GUIMARAES",
+    "cnpj": "40.823.433/0001-61",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-9",
+    "nome": "ESCOLA ESTADUAL CORONEL OTAVIO DE SOUZA LEITE",
+    "cnpj": "01.935.090/0001-75",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-10",
+    "nome": "CENTRO DE EXCELENCIA ARQUIBALDO MENDONCA",
+    "cnpj": "01.933.146/0001-52",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-11",
+    "nome": "ESCOLA ESTADUAL CONSTANCIO VIEIRA",
+    "cnpj": "01.935.133/0001-12",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-12",
+    "nome": "CENTRO DE EXCELENCIA CLEONICE SOARES DA FONSECA",
+    "cnpj": "01.935.128/0001-00",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-13",
+    "nome": "ESCOLA ESTADUAL JOSE CONRADO DE ARAUJO",
+    "cnpj": "01.913.991/0001-66",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-14",
+    "nome": "COLEGIO ESTADUAL GUMERCINDO BESSA",
+    "cnpj": "01.935.093/0001-09",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-15",
+    "nome": "COLEGIO ESTADUAL DR ANTONIO GARCIA FILHO",
+    "cnpj": "01.935.361/0001-92",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-16",
+    "nome": "COLEGIO ESTADUAL PROFESSOR GILSON AMADO",
+    "cnpj": "01.929.957/0001-80",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-17",
+    "nome": "COLEGIO ESTADUAL PADRE JOSE GUMERCINDO DOS SANTOS",
+    "cnpj": "01.904.254/0001-05",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-18",
+    "nome": "CENTRO DE EXCELENCIA DEPUTADO JOALDO VIEIRA BARBOSA",
+    "cnpj": "22.433.969/0001-99",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-19",
+    "nome": "COLEGIO ESTADUAL ARABELA RIBEIRO",
+    "cnpj": "01.935.095/0001-06",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-20",
+    "nome": "COLEGIO ESTADUAL MANUEL BOMFIM",
+    "cnpj": "01.916.027/0001-91",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-21",
+    "nome": "CENTRO DE REFERENCIA DE EDUCACAO DE JOVENS E ADULTOS JORGE AMADO",
+    "cnpj": "01.935.127/0001-65",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-22",
+    "nome": "COLEGIO ESTADUAL LEONARDO GOMES DE CARVALHO LEITE",
+    "cnpj": "01.935.137/0001-09",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-23",
+    "nome": "COLEGIO ESTADUAL ALENCAR CARDOSO",
+    "cnpj": "01.913.994/0001-08",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-24",
+    "nome": "COLEGIO ESTADUAL FRANCISCO BARBOSA SANTOS",
+    "cnpj": "01.913.891/0001-30",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-25",
+    "nome": "COLEGIO ESTADUAL COMENDADOR CALAZANS",
+    "cnpj": "01.899.726/0001-70",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-26",
+    "nome": "COLEGIO ESTADUAL SEVERIANO CARDOSO",
+    "cnpj": "01.904.252/0001-08",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-27",
+    "nome": "COLEGIO ESTADUAL DR JESSE FONTES",
+    "cnpj": "01.899.722/0001-92",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-28",
+    "nome": "ESCOLA ESTADUAL GILBERTO AMADO",
+    "cnpj": "01.935.124/0001-21",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-29",
+    "nome": "COLEGIO ESTADUAL PREFEITO ANFILOFIO FERNANDES VIANA",
+    "cnpj": "04.668.464/0001-21",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-30",
+    "nome": "COLEGIO ESTADUAL DIONIZIO MACHADO",
+    "cnpj": "01.929.948/0001-99",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-31",
+    "nome": "COLEGIO ESTADUAL PREFEITO PEDRO DE BALBINO",
+    "cnpj": "06.288.447/0001-94",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-01-32",
+    "nome": "CENTRO DE EXCELENCIA SENADOR WALTER FRANCO",
+    "cnpj": "01.929.952/0001-57",
+    "regional": "DRE 01"
+  },
+  {
+    "id": "dre-02-3",
+    "nome": "COLEGIO ESTADUAL MONSENHOR JUAREZ SANTOS PRATA",
+    "cnpj": "01.884.573/0001-98",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-4",
+    "nome": "CENTRO DE EXCELENCIA DE EDUCACAO EM TEMPO INTEGRAL PROFESSOR JOSE CLAUDIO MONTEIRO",
+    "cnpj": "06.072.232/0001-31",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-5",
+    "nome": "ESCOLA ESTADUAL MONSENHOR MARINHO",
+    "cnpj": "04.336.849/0001-91",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-6",
+    "nome": "ESCOLA ESTADUAL NOSSA SRA DA PIEDADE",
+    "cnpj": "01.925.051/0001-97",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-7",
+    "nome": "CENTRO DE EXCELENCIA EPIFANIO DORIA",
+    "cnpj": "01.929.946/0001-08",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-8",
+    "nome": "COLEGIO ESTADUAL PROFESSOR JOAO DE OLIVEIRA",
+    "cnpj": "03.282.531/0001-02",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-9",
+    "nome": "ESCOLA ESTADUAL LOURIVAL FONTES",
+    "cnpj": "01.885.544/0001-40",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-10",
+    "nome": "C R E J A PROF MARCOS FERREIRA",
+    "cnpj": "01.925.590/0001-26",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-11",
+    "nome": "ESCOLA ESTADUAL JOAO FERREIRA DE MATOS",
+    "cnpj": "04.328.466/0001-71",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-12",
+    "nome": "ESCOLA ESTADUAL JOSE DE CARVALHO DEDA",
+    "cnpj": "01.923.708/0001-87",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-13",
+    "nome": "ESCOLA ESTADUAL MARIA DE LOURDES SILVEIRA LEITE",
+    "cnpj": "01.902.206/0001-70",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-14",
+    "nome": "ESCOLA ESTADUAL PEDRO VALADARES",
+    "cnpj": "01.923.709/0001-21",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-15",
+    "nome": "CENTRO ESTADUAL DE EDUCACAO PROFISSIONAL PROFESSOR UDILSON SOARES RIBEIRO",
+    "cnpj": "56.942.751/0001-81",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-16",
+    "nome": "COLEGIO ESTADUAL ABELARDO BARRETO DO ROSARIO",
+    "cnpj": "01.884.579/0001-65",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-17",
+    "nome": "COLEGIO ESTADUAL TOBIAS BARRETO",
+    "cnpj": "01.885.543/0001-04",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-18",
+    "nome": "COLEGIO ESTADUAL LUIZ ALVES DE OLIVEIRA",
+    "cnpj": "01.925.022/0001-25",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-19",
+    "nome": "ESC ROTARY CLUBE",
+    "cnpj": "02.964.571/0001-71",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-20",
+    "nome": "ESCOLA ESTADUAL DOM MARIO RINO SIVIERI",
+    "cnpj": "01.904.249/0001-94",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-21",
+    "nome": "COLEGIO ESTADUAL DR OSMAN HORA FONTES",
+    "cnpj": "04.328.401/0001-26",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-22",
+    "nome": "COLEGIO ESTADUAL SENADOR LOURIVAL BAPTISTA",
+    "cnpj": "01.923.706/0001-98",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-23",
+    "nome": "COLEGIO ESTADUAL FAUSTO CARDOSO",
+    "cnpj": "01.902.199/0001-06",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-24",
+    "nome": "ESCOLA ESTADUAL JOAO DE MATTOS CARVALHO",
+    "cnpj": "01.902.194/0001-83",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-25",
+    "nome": "CENTRO DE EXCELENCIA MARIA ROSA DE OLIVEIRA",
+    "cnpj": "01.884.577/0001-76",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-26",
+    "nome": "ESCOLA ESTADUAL ROSINHA FELIPE",
+    "cnpj": "04.322.513/0001-70",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-27",
+    "nome": "COLEGIO ESTADUAL RURAL ENGENHEIRO JOSE CARVALHO",
+    "cnpj": "05.426.478/0001-00",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-28",
+    "nome": "ESCOLA ESTADUAL SEBASTIAO DA FONSECA",
+    "cnpj": "01.929.945/0001-55",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-29",
+    "nome": "COLEGIO ESTADUAL NAPOLEAO DE MENEZES ALVES",
+    "cnpj": "01.925.019/0001-01",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-30",
+    "nome": "ESCOLA ESTADUAL ANTONIO MUNIZ DE SOUZA",
+    "cnpj": "01.929.944/0001-00",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-31",
+    "nome": "COLEGIO ESTADUAL JOAO ANTONIO CESAR",
+    "cnpj": "01.884.578/0001-10",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-32",
+    "nome": "COLEGIO ESTADUAL PROFESSORA MARIA LUCILENE DE ALMEIDA SANTOS",
+    "cnpj": "01.925.024/0001-14",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-33",
+    "nome": "COLEGIO ESTADUAL DR EVANDRO MENDES",
+    "cnpj": "01.925.020/0001-36",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-34",
+    "nome": "CENTRO DE EXCELENCIA DR MILTON DORTAS",
+    "cnpj": "01.923.703/0001-54",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-35",
+    "nome": "CENTRO DE EXCELENCIA PROFESSOR ABELARDO ROMERO DANTAS",
+    "cnpj": "01.936.136/0001-70",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-36",
+    "nome": "COLEGIO ESTADUAL SILVIO ROMERO",
+    "cnpj": "01.904.246/0001-50",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-37",
+    "nome": "ESCOLA ESTADUAL VEREADOR MANOEL SOBRINHO",
+    "cnpj": "03.257.308/0001-05",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-38",
+    "nome": "ESCOLA ESTADUAL ARISTEU CARLOS VALADARES",
+    "cnpj": "01.902.203/0001-36",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-39",
+    "nome": "ESCOLA ESTADUAL CARMEM DO PRADO DANTAS AMARAL",
+    "cnpj": "06.087.604/0001-01",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-40",
+    "nome": "COLEGIO ESTADUAL PROFESSORA JOSEFA ALVES DE ALMEIDA",
+    "cnpj": "50.914.825/0001-90",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-41",
+    "nome": "ESCOLA ESTADUAL SENADOR LEITE NETO",
+    "cnpj": "04.327.973/0001-90",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-02-42",
+    "nome": "COLEGIO ESTADUAL SAO JOSE",
+    "cnpj": "07.992.580/0001-90",
+    "regional": "DRE 02"
+  },
+  {
+    "id": "dre-03-3",
+    "nome": "CENTRO DE EXCELENCIA ROQUE JOSE DE SOUZA",
+    "cnpj": "01.902.169/0001-08",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-4",
+    "nome": "COLEGIO ESTADUAL GUILHERME CAMPOS",
+    "cnpj": "01.899.741/0001-19",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-5",
+    "nome": "COLEGIO ESTADUAL MARTINHO GARCEZ",
+    "cnpj": "01.883.459/0001-43",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-6",
+    "nome": "ESCOLA ESTADUAL DEPUTADO MANOEL TELES",
+    "cnpj": "01.883.450/0001-32",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-7",
+    "nome": "ESCOLA ESTADUAL SÃO JOSE",
+    "cnpj": "01.899.765/0001-78",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-8",
+    "nome": "COLEGIO ESTADUAL DJENAL TAVARES DE QUEIROZ",
+    "cnpj": "02.439.204/0001-59",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-9",
+    "nome": "COLEGIO ESTADUAL AUGUSTO FRANCO",
+    "cnpj": "01.882.472/0001-88",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-10",
+    "nome": "CENTRO DE EXCELENCIA ABDIAS BEZERRA",
+    "cnpj": "01.902.176/0001-00",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-11",
+    "nome": "CENTRO DE EXCELENCIA EMELIANO RIBEIRO",
+    "cnpj": "01.899.735/0001-61",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-12",
+    "nome": "ESCOLA ESTADUAL JOSUE PASSOS",
+    "cnpj": "01.899.750/0001-00",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-13",
+    "nome": "CENTRO DE EXCELENCIA MIGUEL DAS GRACAS",
+    "cnpj": "01.914.560/0001-14",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-14",
+    "nome": "COLEGIO ESTADUAL PADRE MENDONCA",
+    "cnpj": "01.899.737/0001-50",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-15",
+    "nome": "ESCOLA ESTADUAL VICENTE MACHADO MENEZES",
+    "cnpj": "01.899.775/0001-03",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-16",
+    "nome": "COLEGIO ESTADUAL EDUARDO SILVEIRA",
+    "cnpj": "01.899.734/0001-17",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-17",
+    "nome": "CENTRO DE EXCELENCIA PROFESSOR GENTIL TAVARES DA MOTA",
+    "cnpj": "01.883.460/0001-78",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-18",
+    "nome": "COLEGIO ESTADUAL DR AIRTON TELES",
+    "cnpj": "01.899.788/0001-82",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-19",
+    "nome": "COLEGIO ESTADUAL PROFESSORA MARIA DA GLORIA COSTA",
+    "cnpj": "01.899.755/0001-32",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-20",
+    "nome": "CENTRO DE EXCELENCIA DR AUGUSTO CESAR LEITE",
+    "cnpj": "01.902.226/0001-40",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-21",
+    "nome": "ESCOLA ESTADUAL DEPUTADO FRANCISCO PAIXAO",
+    "cnpj": "04.936.539/0001-08",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-22",
+    "nome": "COLEGIO ESTADUAL JOSE JOAQUIM CARDOSO",
+    "cnpj": "01.899.771/0001-25",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-23",
+    "nome": "COLEGIO ESTADUAL PROFESSOR NESTOR CARVALHO LIMA",
+    "cnpj": "01.902.224/0001-51",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-24",
+    "nome": "CENTRO DE EXCELENCIA DE EDUCACAO EM TEMPO INTEGRAL PROFESSORA ANITA PASSOS DE OLIVEIRA",
+    "cnpj": "01.904.262/0001-43",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-25",
+    "nome": "COLEGIO ESTADUAL JOAO SALONIO",
+    "cnpj": "01.899.777/0001-00",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-26",
+    "nome": "COLEGIO ESTADUAL DEPUTADO GUIDO AZEVEDO",
+    "cnpj": "01.902.232/0001-06",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-27",
+    "nome": "ESCOLA ESTADUAL PROFESSORA MARIA DA CONCEICAO",
+    "cnpj": "03.137.794/0001-28",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-28",
+    "nome": "COLEGIO ESTADUAL PEDRO DINIZ GONCALVES",
+    "cnpj": "01.899.760/0001-45",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-29",
+    "nome": "COLEGIO ESTADUAL MARCOLINO CRUZ SANTOS",
+    "cnpj": "01.902.231/0001-53",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-30",
+    "nome": "COLEGIO ESTADUAL JOAO XXIII",
+    "cnpj": "01.904.294/0001-49",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-31",
+    "nome": "COLEGIO ESTADUAL PROFESSOR ARTUR FORTES",
+    "cnpj": "01.902.222/0001-62",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-32",
+    "nome": "COLEGIO ESTADUAL MURILO BRAGA",
+    "cnpj": "01.902.229/0001-84",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-03-33",
+    "nome": "ESCOLA ESTADUAL ELIEZER PORTO",
+    "cnpj": "01.904.260/0001-54",
+    "regional": "DRE 03"
+  },
+  {
+    "id": "dre-04-3",
+    "nome": "ESCOLA ESTADUAL MARIA DA GLORIA MOTA CABRAL",
+    "cnpj": "01.883.476/0001-80",
+    "regional": "DRE 04"
+  },
+  {
+    "id": "dre-04-4",
+    "nome": "CENTRO DE EXCELENCIA DR EDELZIO VIEIRA DE MELO",
+    "cnpj": "01.899.886/0001-10",
+    "regional": "DRE 04"
+  },
+  {
+    "id": "dre-04-5",
+    "nome": "CENTRO DE EXCELENCIA CEL JOSE JOAQUIM BARBOSA",
+    "cnpj": "01.899.810/0001-94",
+    "regional": "DRE 04"
+  },
+  {
+    "id": "dre-04-6",
+    "nome": "COLEGIO ESTADUAL COELHO E CAMPOS",
+    "cnpj": "01.930.821/0001-90",
+    "regional": "DRE 04"
+  },
+  {
+    "id": "dre-04-7",
+    "nome": "COLEGIO ESTADUAL IRMA MARIA CLEMENCIA",
+    "cnpj": "01.930.821/0001-90",
+    "regional": "DRE 04"
+  },
+  {
+    "id": "dre-04-8",
+    "nome": "CENTRO DE EXCELENCIA LEANDRO MACIEL",
+    "cnpj": "01.930.821/0001-90",
+    "regional": "DRE 04"
+  },
+  {
+    "id": "dre-04-9",
+    "nome": "COLEGIO ESTADUAL JOSE DE MATOS TELES",
+    "cnpj": "01.930.821/0001-90",
+    "regional": "DRE 04"
+  },
+  {
+    "id": "dre-04-10",
+    "nome": "CENTRO DE EXCELENCIA EDELZIO VIEIRA DE MELO",
+    "cnpj": "01.930.821/0001-90",
+    "regional": "DRE 04"
+  },
+  {
+    "id": "dre-04-11",
+    "nome": "CENTRO ESTADUAL DE EDUCACAO PROFISSIONAL GOVERNADOR MARCELO DEDA CHAGAS",
+    "cnpj": "01.930.821/0001-90",
+    "regional": "DRE 04"
+  },
+  {
+    "id": "dre-04-12",
+    "nome": "CENTRO DE EXCELENCIA DR JOAO DE MELO PRADO",
+    "cnpj": "01.930.821/0001-90",
+    "regional": "DRE 04"
+  },
+  {
+    "id": "dre-04-13",
+    "nome": "ESCOLA ESTADUAL PROFESSORA MARIA BERENICE BARRETO ALVES",
+    "cnpj": "01.882.416/0001-43",
+    "regional": "DRE 04"
+  },
+  {
+    "id": "dre-04-14",
+    "nome": "CENTRO DE EXCELENCIA SENADOR GONCALO ROLLEMBERG",
+    "cnpj": "01.930.821/0001-90",
+    "regional": "DRE 04"
+  },
+  {
+    "id": "dre-04-15",
+    "nome": "COLEGIO ESTADUAL JOSE AMARAL LEMOS",
+    "cnpj": "01.904.197/0001-56",
+    "regional": "DRE 04"
+  },
+  {
+    "id": "dre-04-16",
+    "nome": "COLEGIO ESTADUAL POETA JOSE SAMPAIO",
+    "cnpj": "01.910.109/0001-29",
+    "regional": "DRE 04"
+  },
+  {
+    "id": "dre-04-17",
+    "nome": "CENTRO DE EXCELENCIA PROFESSORA MARIA CONCEICAO DE SANTANA",
+    "cnpj": "01.904.199/0001-45",
+    "regional": "DRE 04"
+  },
+  {
+    "id": "dre-04-18",
+    "nome": "ESCOLA ESTADUAL MONSENHOR ERALDO BARBOSA DE ALMEIDA",
+    "cnpj": "01.930.821/0001-90",
+    "regional": "DRE 04"
+  },
+  {
+    "id": "dre-05-3",
+    "nome": "COLEGIO ESTADUAL MANOEL ALCINO DO NASCIMENTO",
+    "cnpj": "01.904.244/0001-61",
+    "regional": "DRE 05"
+  },
+  {
+    "id": "dre-05-4",
+    "nome": "COLEGIO ESTADUAL MARIA MONTESSORI",
+    "cnpj": "01.902.197/0001-17",
+    "regional": "DRE 05"
+  },
+  {
+    "id": "dre-05-5",
+    "nome": "COLEGIO ESTADUAL ALCEBIADES PAES",
+    "cnpj": "01.911.790/0001-20",
+    "regional": "DRE 05"
+  },
+  {
+    "id": "dre-05-6",
+    "nome": "ESC ESTADUAL MILTON AZEVEDO",
+    "cnpj": "01.930.802/0001-63",
+    "regional": "DRE 05"
+  },
+  {
+    "id": "dre-05-7",
+    "nome": "CENTRO DE EXCELENCIA MARIA DAS GRACAS MENEZES MOURA",
+    "cnpj": "01.912.606/0001-66",
+    "regional": "DRE 05"
+  },
+  {
+    "id": "dre-05-8",
+    "nome": "CENTRO DE EXCELENCIA DE EDUCACAO PROFISSIONAL BERILA ALVES DE ALMEIDA",
+    "cnpj": "34.155.824/0001-52",
+    "regional": "DRE 05"
+  },
+  {
+    "id": "dre-05-9",
+    "nome": "COLEGIO ESTADUAL GENERAL CALAZANS",
+    "cnpj": "01.899.813/0001-28",
+    "regional": "DRE 05"
+  },
+  {
+    "id": "dre-05-10",
+    "nome": "COLEGIO ESTADUAL PROFESSOR FERNANDO AZEVEDO",
+    "cnpj": "01.911.787/0001-06",
+    "regional": "DRE 05"
+  },
+  {
+    "id": "dre-05-11",
+    "nome": "COLEGIO ESTADUAL NACOES UNIDAS",
+    "cnpj": "01.904.271/0001-34",
+    "regional": "DRE 05"
+  },
+  {
+    "id": "dre-05-12",
+    "nome": "COLEGIO ESTADUAL FRANCISCO FIGUEIREDO",
+    "cnpj": "01.904.279/0001-09",
+    "regional": "DRE 05"
+  },
+  {
+    "id": "dre-06-3",
+    "nome": "CENTRO DE EXCELENCIA DE EDUCACAO EM TEMPO INTEGRAL MANOEL JOAQUIM DE OLIVEIRA CAMPOS",
+    "cnpj": "01.899.838/0001-21",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-4",
+    "nome": "CENTRO DE EXCELENCIA DE EDUCACAO EM TEMPO INTEGRAL SAO FRANCISCO DE ASSIS",
+    "cnpj": "01.913.369/0001-58",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-5",
+    "nome": "CENTRO DE EXCELENCIA DR JESSE TRINDADE",
+    "cnpj": "01.933.136/0001-17",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-6",
+    "nome": "COLEGIO ESTADUAL PROFESSORA MARIA VIEIRA DA SILVA SANTOS",
+    "cnpj": "07.698.876/0001-00",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-7",
+    "nome": "COLEGIO ESTADUAL CALDAS JUNIOR",
+    "cnpj": "01.929.379/0001-81",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-8",
+    "nome": "ESCOLA ESTADUAL MONSENHOR JOSE MORENO DE SANTANA",
+    "cnpj": "06.193.696/0001-04",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-9",
+    "nome": "CENTRO DE EXCELENCIA DR LEANDRO MACIEL",
+    "cnpj": "01.923.714/0001-34",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-10",
+    "nome": "COLEGIO ESTADUAL CEL JOAO FERNANDES DE BRITTO",
+    "cnpj": "01.899.844/0001-89",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-11",
+    "nome": "ESCOLA ESTADUAL GRACCHO CARDOSO",
+    "cnpj": "01.899.836/0001-32",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-12",
+    "nome": "ESCOLA ESTADUAL PROFESSOR CEZARIO SIQUEIRA",
+    "cnpj": "01.913.368/0001-03",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-13",
+    "nome": "ESCOLA ESTADUAL PROFESSOR GOMES NETO",
+    "cnpj": "01.925.059/0001-53",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-14",
+    "nome": "CENTRO ESTADUAL DE EDUCACAO PROFISSIONAL AGONALTO PACHECO DA SILVA",
+    "cnpj": "22.729.304/0001-27",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-15",
+    "nome": "CENTRO DE EXCELENCIA MARECHAL PEREIRA LOBO",
+    "cnpj": "01.899.840/0001-09",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-16",
+    "nome": "ESCOLA ESTADUAL PROFESSOR IRMAO SALATIEL FRANCISCANO DO AMARAL",
+    "cnpj": "06.188.550/0001-62",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-17",
+    "nome": "COLEGIO ESTADUAL GOVERNADOR GERAL MANOEL DE MIRANDA",
+    "cnpj": "03.804.790/0001-56",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-18",
+    "nome": "ESC ESTADUAL NOSSA SENHORA SANTANA",
+    "cnpj": "01.904.280/0001-25",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-19",
+    "nome": "CENTRO DE EXCELENCIA JOANA DE FREITAS BARBOSA",
+    "cnpj": "01.915.501/0001-60",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-20",
+    "nome": "CENTRO DE EXCELENCIA MANUEL DANTAS",
+    "cnpj": "01.939.377/0001-73",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-21",
+    "nome": "AS MANT ESC FAM AGRIC LADEIRINHAS",
+    "cnpj": "41.199.267/0001-37",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-22",
+    "nome": "CENTRO DE EXCELENCIA JOSINO MENEZES",
+    "cnpj": "01.899.859/0001-47",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-23",
+    "nome": "CENTRO DE EXCELENCIA ANTONIO MATHIAS BARROSO",
+    "cnpj": "01.925.060/0001-88",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-24",
+    "nome": "COLEGIO ESTADUAL QUILOMBOLA 03 DE MAIO",
+    "cnpj": "01.925.058/0001-09",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-25",
+    "nome": "COLEGIO ESTADUAL ZECA PEREIRA",
+    "cnpj": "01.925.036/0001-49",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-26",
+    "nome": "ESCOLA ESTADUAL MANOEL ANTONIO PEREIRA",
+    "cnpj": "01.925.062/0001-77",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-27",
+    "nome": "COLEGIO ESTADUAL PROFESSOR ANTONIO CALIXTO DE FIGUEIREDO CRUZ",
+    "cnpj": "01.902.190/0001-03",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-28",
+    "nome": "COLEGIO ESTADUAL ALMIRANTE BARROSO",
+    "cnpj": "01.899.846/0001-78",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-29",
+    "nome": "COLEGIO EST PROF ROBERTA RAMALHO DE SOUZA",
+    "cnpj": "01.899.841/0001-45",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-30",
+    "nome": "ESCOLA ESTADUAL OTAVIO BEZERRA",
+    "cnpj": "03.805.021/0001-72",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-31",
+    "nome": "COLEGIO ESTADUAL JOSE GUIMARAES LIMA",
+    "cnpj": "01.925.063/0001-11",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-32",
+    "nome": "ESCOLA ESTADUAL DOM ANTONIO DOS SANTOS CABRAL",
+    "cnpj": "01.899.854/0001-14",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-33",
+    "nome": "COLEGIO ESTADUAL JOAO DIAS GUIMARAES",
+    "cnpj": "01.913.371/0001-27",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-34",
+    "nome": "CENTRO DE EXECELENCIA DR LUIZ GARCIA",
+    "cnpj": "01.915.498/0001-85",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-35",
+    "nome": "ESCOLA DE ENSINO FUNDAMENTAL SAGRADA FAMILIA",
+    "cnpj": "01.932.138/0001-91",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-06-36",
+    "nome": "COLEGIO ESTADUAL EMILIANO GUIMARAES",
+    "cnpj": "01.899.850/0001-36",
+    "regional": "DRE 06"
+  },
+  {
+    "id": "dre-07-3",
+    "nome": "COLEGIO ESTADUAL NELSON REZENDE DE ALBUQUERQUE",
+    "cnpj": "01.960.308/0001-41",
+    "regional": "DRE 07"
+  },
+  {
+    "id": "dre-07-4",
+    "nome": "COLEGIO ESTADUAL PROFESSOR JOSE AUGUSTO DA ROCHA LIMA",
+    "cnpj": "02.601.415/0001-46",
+    "regional": "DRE 07"
+  },
+  {
+    "id": "dre-07-5",
+    "nome": "COLEGIO ESTADUAL CORONEL MAYNARD GOMES",
+    "cnpj": "01.913.688/0001-63",
+    "regional": "DRE 07"
+  },
+  {
+    "id": "dre-07-6",
+    "nome": "COLEGIO ESTADUAL PEDRO ALVES DE SOUZA",
+    "cnpj": "01.910.289/0001-49",
+    "regional": "DRE 07"
+  },
+  {
+    "id": "dre-07-7",
+    "nome": "COLEGIO ESTADUAL PROFESSORA CLEMENCIA ALVES DA SILVA",
+    "cnpj": "22.435.475/0001-43",
+    "regional": "DRE 07"
+  },
+  {
+    "id": "dre-07-8",
+    "nome": "COLEGIO ESTADUAL PROFESSORA MARIA ZENITE DOS SANTOS",
+    "cnpj": "22.827.958/0001-93",
+    "regional": "DRE 07"
+  },
+  {
+    "id": "dre-07-9",
+    "nome": "COLEGIO INDIGENA ESTADUAL DOM JOSE BRANDAO DE CASTRO",
+    "cnpj": "04.385.445/0001-98",
+    "regional": "DRE 07"
+  },
+  {
+    "id": "dre-07-10",
+    "nome": "ESCOLA ESTADUAL MONSENHOR RANGEL",
+    "cnpj": "01.915.251/0001-69",
+    "regional": "DRE 07"
+  },
+  {
+    "id": "dre-07-11",
+    "nome": "COLEGIO ESTADUAL MONSENHOR FERNANDO GRACA LEITE",
+    "cnpj": "01.915.547/0001-80",
+    "regional": "DRE 07"
+  },
+  {
+    "id": "dre-07-12",
+    "nome": "CENTRO DE EXCELENCIA GOVERNADOR LOURIVAL BAPTISTA",
+    "cnpj": "01.910.214/0001-68",
+    "regional": "DRE 07"
+  },
+  {
+    "id": "dre-07-13",
+    "nome": "CENTRO DE EXCELENCIA ALMIRANTE TAMANDARE",
+    "cnpj": "01.913.887/0001-71",
+    "regional": "DRE 07"
+  },
+  {
+    "id": "dre-07-14",
+    "nome": "CENTRO DE EXCELENCIA QUILOMBOLA 27 DE MAIO",
+    "cnpj": "03.557.747/0001-33",
+    "regional": "DRE 07"
+  },
+  {
+    "id": "dre-07-15",
+    "nome": "ESCOLA ESTADUAL PROF EULINA BATISTA DE MELO",
+    "cnpj": "22.730.078/0001-02",
+    "regional": "DRE 07"
+  },
+  {
+    "id": "dre-08-3",
+    "nome": "COLEGIO ESTADUAL HELIO WANDERLEY SOBRAL CARVALHO",
+    "cnpj": "02.544.027/0001-70",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-4",
+    "nome": "CENTRO DE EXCELENCIA GILBERTO FREYRE",
+    "cnpj": "01.904.268/0001-10",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-5",
+    "nome": "COLEGIO ESTADUAL PROFESSORA MARIA DE LOURDES GOIS",
+    "cnpj": "05.315.029/0001-86",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-6",
+    "nome": "CENTRO DE EXCELENCIA SENADOR PAULO SARASATE",
+    "cnpj": "01.900.120/0001-08",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-7",
+    "nome": "COLEGIO ESTADUAL PROFESSOR JOSE BARRETO FONTES",
+    "cnpj": "01.889.061/0001-14",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-8",
+    "nome": "COLEGIO ESTADUAL FELIPE TIAGO GOMES",
+    "cnpj": "02.840.616/0001-04",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-9",
+    "nome": "COLEGIO ESTADUAL PRFº ROGACIANO MAGNO LEAO BRASIL",
+    "cnpj": "01.878.640/0001-61",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-10",
+    "nome": "COLEGIO ESTADUAL CONEGO FILADELFO OLIVEIRA",
+    "cnpj": "01.899.716/0001-35",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-11",
+    "nome": "CENTRO DE EXCELENCIA PROFISSIONALIZANTE PROFESSORA NEUZICE BARRETO",
+    "cnpj": "40.081.893/0001-61",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-12",
+    "nome": "ESCOLA ESTADUAL JORNALISTA CELIO NUNES",
+    "cnpj": "01.899.867/0001-93",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-13",
+    "nome": "ESCOLA ESTADUAL MARINALVA ALVES",
+    "cnpj": "01.916.157/0001-24",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-14",
+    "nome": "CENTRO DE EXCELENCIA PROF HAMILTON ALVES ROCHA",
+    "cnpj": "07.261.374/0001-00",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-15",
+    "nome": "ESCOLA ESTADUAL JOAO ARLINDO DE JESUS",
+    "cnpj": "01.913.324/0001-83",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-16",
+    "nome": "ESCOLA ESTADUAL POETA JOAO FREIRE RIBEIRO",
+    "cnpj": "01.907.177/0001-39",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-17",
+    "nome": "COLEGIO ESTADUAL DEP ELISIO CARMELO",
+    "cnpj": "04.834.174/0001-00",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-18",
+    "nome": "ESCOLA ESTADUAL JOSE SOBRAL GARCEZ",
+    "cnpj": "01.957.263/0001-56",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-19",
+    "nome": "COLEGIO ESTADUAL POETA JOSE SAMPAIO",
+    "cnpj": "01.899.891/0001-22",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-20",
+    "nome": "CENTRO DE EXCELENCIA DEPUTADO JONAS AMARAL",
+    "cnpj": "06.634.946/0001-96",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-21",
+    "nome": "CENTRO DE EXCELENCIA DE EDUCACAO PROFISSIONAL GOVERNADOR SEIXAS DORIA",
+    "cnpj": "35.714.094/0001-45",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-22",
+    "nome": "ESCOLA ESTADUAL PROFª AGDA FONTES FERREIRA",
+    "cnpj": "01.904.295/0001-93",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-23",
+    "nome": "COLEGIO ESTADUAL MARIA HERMINIA CALDAS",
+    "cnpj": "01.889.055/0001-67",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-24",
+    "nome": "ESCOLA ESTADUAL PROF CECINHA MELO COSTA",
+    "cnpj": "01.900.110/0001-72",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-25",
+    "nome": "ESCOLA ESTADUAL RURAL EDUCADOR PAULO FREIRE",
+    "cnpj": "37.663.385/0001-87",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-26",
+    "nome": "ESCOLA ESTADUAL JOAO RIBEIRO",
+    "cnpj": "01.928.967/0001-09",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-27",
+    "nome": "ESCOLA ESTADUAL PROFESSOR MANOEL DOS PASSOS DE OLIVEIRA TELES",
+    "cnpj": "01.876.304/0001-80",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-28",
+    "nome": "COLEGIO ESTADUAL FREI INOCENCIO",
+    "cnpj": "01.916.241/0001-48",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-29",
+    "nome": "COLEGIO ESTADUAL PROFESSORA CLARICE DA SILVA",
+    "cnpj": "01.889.074/0001-93",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-30",
+    "nome": "ESCOLA ESTADUAL PROFESSOR DIOMEDES SANTOS DA SILVA",
+    "cnpj": "01.889.090/0001-86",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-31",
+    "nome": "COLEGIO ESTADUAL PROFESSOR JOSE FRANKLIN",
+    "cnpj": "01.889.057/0001-56",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-32",
+    "nome": "COLEGIO ESTADUAL PROFESSOR ANTONIO FONTES FREITAS",
+    "cnpj": "01.902.200/0001-00",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-33",
+    "nome": "ESCOLA ESTADUAL FRANCISCO SALES SOBRAL",
+    "cnpj": "01.871.552/0001-38",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-34",
+    "nome": "ESCOLA MENINO JESUS DE SION",
+    "cnpj": "01.878.641/0001-06",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-35",
+    "nome": "COLEGIO ESTADUAL JUSCELINO KUBITSCHEK",
+    "cnpj": "01.900.107/0001-59",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-36",
+    "nome": "COLEGIO ESTADUAL ESPERIDIAO MONTEIRO",
+    "cnpj": "01.923.264/0001-80",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-37",
+    "nome": "COLEGIO ESTADUAL PADRE GASPAR LOURENCO",
+    "cnpj": "01.876.297/0001-16",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-38",
+    "nome": "ESCOLA ESTADUAL PROFESSORA NORMELIA ARAUJO MELO",
+    "cnpj": "01.883.468/0001-34",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-39",
+    "nome": "ESCOLA ESTADUAL DR JOSE FREIRE DA COSTA PINTO",
+    "cnpj": "01.889.066/0001-47",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-40",
+    "nome": "COLEGIO ESTADUAL ALFREDO MONTES",
+    "cnpj": "01.889.101/0001-28",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-41",
+    "nome": "ESCOLAS REUNIDAS COELHO NETO",
+    "cnpj": "01.889.067/0001-91",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-42",
+    "nome": "ESCOLA ESTADUAL PROFESSORA JULIA TELES",
+    "cnpj": "01.879.532/0001-03",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-43",
+    "nome": "COLEGIO ESTADUAL ARMINDO GUARANA",
+    "cnpj": "01.935.088/0001-04",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-44",
+    "nome": "ESCOLA ESTADUAL PROFESSORA NEYDE MESQUITA",
+    "cnpj": "01.882.443/0001-16",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-45",
+    "nome": "CENTRO DE EXCELENCIA FELISBELO FREIRE",
+    "cnpj": "01.871.551/0001-93",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-46",
+    "nome": "COLEGIO ESTADUAL PROF LEAO MAGNO BRASIL",
+    "cnpj": "01.889.100/0001-83",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-47",
+    "nome": "COLEGIO ESTADUAL JORGE AMADO",
+    "cnpj": "01.925.595/0001-59",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-48",
+    "nome": "ESCOLA ESTADUAL LUIZ GUIMARAES",
+    "cnpj": "01.900.122/0001-05",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-49",
+    "nome": "CENTRO DE EXCELENCIA DR ALCIDES PEREIRA",
+    "cnpj": "01.889.091/0001-20",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-50",
+    "nome": "COLEGIO ESTADUAL PROF GLORITA PORTUGAL",
+    "cnpj": "01.889.095/0001-09",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-51",
+    "nome": "ESCOLA ESTADUAL ZUMBI DOS PALMARES",
+    "cnpj": "04.357.666/0001-52",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-52",
+    "nome": "COLEGIO ESTADUAL JOAO BATISTA NASCIMENTO",
+    "cnpj": "01.910.110/0001-53",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-53",
+    "nome": "COLEGIO ESTADUAL PEDRO ALMEIDA VALADARES",
+    "cnpj": "01.871.876/0001-76",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-54",
+    "nome": "COLEGIO ESTADUAL PROF ZIZINHA GUIMARAES",
+    "cnpj": "01.912.597/0001-03",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-08-55",
+    "nome": "COLEGIO ESTADUAL DR CARLOS FIRPO",
+    "cnpj": "01.889.058/0001-09",
+    "regional": "DRE 08"
+  },
+  {
+    "id": "dre-09-3",
+    "nome": "COLEGIO ESTADUAL CICERO BEZERRA",
+    "cnpj": "01.910.921/0001-54",
+    "regional": "DRE 09"
+  },
+  {
+    "id": "dre-09-4",
+    "nome": "ESCOLA PE LEON GREGORIO",
+    "cnpj": "01.910.921/0001-54",
+    "regional": "DRE 09"
+  },
+  {
+    "id": "dre-09-5",
+    "nome": "COLEGIO ESTADUAL DELMIRO DE MIRANDA BRITTO",
+    "cnpj": "01.913.330/0001-30",
+    "regional": "DRE 09"
+  },
+  {
+    "id": "dre-09-6",
+    "nome": "ESCOLA ESTADUAL JOSE INACIO DE FARIAS",
+    "cnpj": "01.913.330/0001-30",
+    "regional": "DRE 09"
+  },
+  {
+    "id": "dre-09-7",
+    "nome": "ESCOLA ESTADUAL PROFESSORA EVANGELINA AZEVEDO",
+    "cnpj": "01.913.330/0001-30",
+    "regional": "DRE 09"
+  },
+  {
+    "id": "dre-09-8",
+    "nome": "COLEGIO ESTADUAL PROFESSOR JUSTINIANO DE MELO E SILVA",
+    "cnpj": "01.913.330/0001-30",
+    "regional": "DRE 09"
+  },
+  {
+    "id": "dre-09-9",
+    "nome": "CENTRO DE EXCELENCIA DOM JUVENCIO DE BRITTO",
+    "cnpj": "01.913.330/0001-30",
+    "regional": "DRE 09"
+  },
+  {
+    "id": "dre-09-10",
+    "nome": "ESCOLA ESTADUAL TEOTONIO ALVES CHINA",
+    "cnpj": "01.913.330/0001-30",
+    "regional": "DRE 09"
+  },
+  {
+    "id": "dre-09-11",
+    "nome": "CENTRO DE EXCELENCIA 28 DE JANEIRO",
+    "cnpj": "01.913.330/0001-30",
+    "regional": "DRE 09"
+  },
+  {
+    "id": "dre-09-12",
+    "nome": "COLEGIO ESTADUAL PROFESSOR JOSE ARIBALDO DE CAMPOS LIMA",
+    "cnpj": "01.913.330/0001-30",
+    "regional": "DRE 09"
+  },
+  {
+    "id": "dre-09-13",
+    "nome": "CENTRO DE EXCELENCIA PROFESSORA NOEMIA DE SOUZA",
+    "cnpj": "01.913.330/0001-30",
+    "regional": "DRE 09"
+  },
+  {
+    "id": "dre-09-14",
+    "nome": "CENTRO ESTADUAL DE EDUCACAO PROFISSIONAL DOM JOSE BRANDAO DE CASTRO",
+    "cnpj": "09.330.810/0001-80",
+    "regional": "DRE 09"
+  },
+  {
+    "id": "dre-09-15",
+    "nome": "CENTRO DE EXCELENCIA MANOEL MESSIAS FEITOSA",
+    "cnpj": "01.913.330/0001-30",
+    "regional": "DRE 09"
+  },
+  {
+    "id": "dre-09-16",
+    "nome": "ESCOLA ESTADUAL DURVAL RODRIGUES ROSA",
+    "cnpj": "01.913.330/0001-30",
+    "regional": "DRE 09"
+  }
+]
