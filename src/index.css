@@ -29,100 +29,254 @@ body {
 /* Ajustes exclusivos da impressão e do PDF */
 @media print {
   @page {
-    size: A4;
-    margin: 15mm;
+    size: A4 portrait;
+    margin: 10mm 12mm;
   }
 
-  *,
-  *::before,
-  *::after {
+  /* Remove alturas e espaçamentos da estrutura da tela */
+  html,
+  body,
+  #root,
+  #root .app,
+  #root .window,
+  #root .workspace {
+    display: block !important;
+    position: static !important;
+
+    width: 100% !important;
+    max-width: none !important;
+    height: auto !important;
+    min-height: 0 !important;
+    max-height: none !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+
+    overflow: visible !important;
     border: 0 !important;
-    outline: none !important;
+    border-radius: 0 !important;
+    background: white !important;
+    box-shadow: none !important;
+
+    break-before: auto !important;
+    break-after: auto !important;
+    break-inside: auto !important;
+    page-break-before: auto !important;
+    page-break-after: auto !important;
+    page-break-inside: auto !important;
+  }
+
+  body {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* Retira quebras de página impostas nos elementos internos */
+  #root .workspace * {
+    break-before: auto !important;
+    break-after: auto !important;
+    break-inside: auto !important;
+
+    page-break-before: auto !important;
+    page-break-after: auto !important;
+    page-break-inside: auto !important;
+  }
+
+  /* Cabeçalho compacto */
+  #root .workspace > .page-header {
+    display: block !important;
+    height: auto !important;
+    min-height: 0 !important;
+    margin: 0 0 12px !important;
+    padding: 0 !important;
+  }
+
+  #root .page-header h1 {
+    margin: 4px 0 !important;
+    font-size: 22px !important;
+    line-height: 1.2 !important;
+  }
+
+  #root .page-header p {
+    margin: 0 !important;
+    font-size: 10px !important;
+    line-height: 1.4 !important;
+  }
+
+  /* Oculta o indicador "Cálculo em tempo real" */
+  #root .page-header > span {
+    display: none !important;
+  }
+
+  /* Fluxo normal: não mantém todo o conteúdo preso em um grid */
+  #root .workspace > .layout,
+  #root .layout > .form-column,
+  #root .layout > .summary {
+    display: block !important;
+    position: static !important;
+
+    width: 100% !important;
+    max-width: none !important;
+    height: auto !important;
+    min-height: 0 !important;
+    max-height: none !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: visible !important;
+  }
+
+  /* Cards de crédito e destino */
+  #root .form-column > .print-card {
+    display: block !important;
+    margin: 0 0 10px !important;
+    padding: 10px 12px !important;
+
+    border: 1px solid #e9ebf1 !important;
+    border-radius: 10px !important;
+    background: white !important;
     box-shadow: none !important;
   }
 
-  html,
-  body,
-  #root {
-    width: 100%;
-    min-width: 0;
-    min-height: 0;
-    margin: 0;
-    padding: 0;
-    color: #20232d;
-    background: #fff !important;
+  /* Terceiro card: despesas e comprovantes não entram no PDF */
+  #root .form-column > .print-card:nth-child(3) {
+    display: none !important;
   }
 
-  .app {
-    min-height: 0;
-    padding: 0;
-    background: #fff !important;
-    background-image: none !important;
+  /* Cabeçalhos internos dos cards */
+  #root .form-column .print-card .mb-\[22px\] {
+    margin-bottom: 8px !important;
+    gap: 8px !important;
   }
 
-  .window {
-    max-width: none;
-    margin: 0;
-    overflow: visible;
-    border-radius: 0;
-    background: #fff !important;
+  #root .form-column .print-card h2 {
+    font-size: 12px !important;
+    line-height: 1.3 !important;
   }
 
-  .workspace {
-    padding: 0;
+  /* Remove instruções de preenchimento */
+  #root .form-column .print-card p {
+    display: none !important;
   }
 
-  .page-header {
-    display: block;
-    margin-bottom: 24px;
+  /* Duas colunas dentro dos cards */
+  #root .form-column .grid.grid-cols-1 {
+    display: grid !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: 14px !important;
   }
 
-  .layout,
-  .form-column {
-    display: block;
+  #root .form-column label {
+    gap: 4px !important;
   }
 
-  .summary {
-    position: static;
+  #root .form-column label.mt-5 {
+    margin-top: 8px !important;
   }
 
-  .print-card {
-    margin-bottom: 16px;
-    padding: 18px;
-    background: #fff;
-    break-inside: avoid;
+  #root .form-column input {
+    height: 28px !important;
+    font-size: 11px !important;
+    line-height: normal !important;
   }
 
-  .fields-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 18px;
+  #root .form-column button {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    font-size: 10px !important;
   }
 
-  .money-input {
-    border: 1px solid #d9dee7 !important;
-    border-radius: 8px;
-    background: #fff !important;
+  /* Mostra somente o destino selecionado */
+  #root .form-column button[aria-pressed="false"] {
+    display: none !important;
   }
 
-  .money-input input::placeholder {
-    color: #48515f;
-    opacity: 1;
+  /* Resumo financeiro */
+  #root .summary > .print-card {
+    display: block !important;
+    height: auto !important;
+    min-height: 0 !important;
+
+    margin: 12px 0 0 !important;
+    padding: 12px !important;
+
+    border: 1px solid #e9ebf1 !important;
+    border-radius: 10px !important;
+    background: white !important;
+    box-shadow: none !important;
   }
 
-  .balance {
+  #root .summary > .print-card h2 {
+    margin: 4px 0 !important;
+    font-size: 16px !important;
+    line-height: 1.3 !important;
+  }
+
+  #root .summary > .print-card > p {
+    margin-top: 4px !important;
+    margin-bottom: 10px !important;
+    font-size: 10px !important;
+    line-height: 1.4 !important;
+  }
+
+  #root .summary > .print-card > .grid {
+    gap: 8px !important;
+  }
+
+  #root .summary > .print-card > .mt-\[26px\] {
+    margin-top: 12px !important;
+  }
+
+  #root .summary > .print-card > .mb-6 {
+    margin-top: 6px !important;
+    margin-bottom: 12px !important;
+  }
+
+  #root .summary > .print-card > .mb-4 {
+    margin-bottom: 10px !important;
+  }
+
+  /* Total destacado */
+  #root .summary .balance {
+    margin: 0 !important;
+    padding: 12px 14px !important;
     border: 1px solid #deebff !important;
-    border-radius: 12px;
+    border-radius: 10px !important;
+    background: #f3f8ff !important;
   }
 
-  .balance.negative {
-    border-color: #f5ddcf !important;
+  #root .summary .balance strong {
+    margin-top: 4px !important;
+    font-size: 25px !important;
+    line-height: 1.2 !important;
   }
 
-  .extra-fields {
-    border-bottom: 1px solid #d9dee7 !important;
+  #root .summary .balance p {
+    margin-top: 6px !important;
+    font-size: 10px !important;
+    line-height: 1.4 !important;
   }
 
-  .print-analyst {
+  /* Não imprime o formulário, aviso da sessão e rodapé */
+  #root .summary > form,
+  #root .summary > p,
+  #root .workspace > footer {
+    display: none !important;
+  }
+
+  /* Identificação do analista */
+  #root .summary > .print-analyst {
+    display: grid !important;
+    gap: 4px !important;
+
+    margin: 12px 0 0 !important;
+    padding: 10px 0 0 !important;
+
     border-top: 1px solid #d9dee7 !important;
+  }
+
+  #root .print-analyst strong {
+    font-size: 12px !important;
+    line-height: 1.4 !important;
   }
 }
